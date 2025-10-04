@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1759590081049,
+    "title": "Arts day Celebration",
+    "author": "Inzeera",
+    "content": "It was the most enjoyable day of my life",
+    "comments": [
+      {
+        "username": "fiyarlin",
+        "text": "yeah.."
+      },
+      {
+        "username": "Gomathi",
+        "text": "I liked that day"
+      },
+      {
+        "username": "Arya",
+        "text": "That's true"
+      },
+      {
+        "username": "Blessy",
+        "text": "True"
+      }
+    ]
+  },
+  {
+    "id": 1759590288953,
+    "title": "Sports day celebration",
+    "author": "Fiyarlin",
+    "content": "I won the ball badminton 🏸 competition conducted by Anna University",
+    "comments": [
+      {
+        "username": "Arya",
+        "text": "Congrats"
+      },
+      {
+        "username": "Blessy",
+        "text": "Congratulations dear"
+      },
+      {
+        "username": "Inzeera",
+        "text": "Congrats"
+      }
+    ]
+  },
+  {
+    "id": 1759592883951,
+    "title": "Arya's Day life",
+    "author": "Arya",
+    "content": "I went to college",
+    "comments": []
+  }
+]
