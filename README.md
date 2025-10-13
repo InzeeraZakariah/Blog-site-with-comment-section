@@ -1,4 +1,4 @@
-# 📰 IBM Front-End Blog Site with Comment Section
+# 📰 Blog Site with Comment Section
 
 ## 📌 Project Overview
 
