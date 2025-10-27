@@ -109,5 +109,5 @@ To design and implement an intuitive blog management system that enables users t
 
 
 
-**Deployed Link:** [https://helpful-tarsier-181f6c.netlify.app](https://helpful-tarsier-181f6c.netlify.app)
+**Deployed Link:** :https://blogsite-with-command-section.netlify.app/
 **GitHub Repository:** [https://github.com/username/ibm-fe-blog-site](https://github.com/username/ibm-fe-blog-site)
